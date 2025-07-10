@@ -1,0 +1,21 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "practice",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashish-panicker/js-refresher-coding-challenges.git"
+  },
+  "author": "tharun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashish-panicker/js-refresher-coding-challenges/issues"
+  },
+  "homepage": "https://github.com/ashish-panicker/js-refresher-coding-challenges#readme"
+}
